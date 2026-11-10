@@ -3,4 +3,5 @@
 /home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.pdb
 /home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/Amazon.Lambda.Core.dll
 /home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/Newtonsoft.Json.dll
 /home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.dll

@@ -15,3 +15,5 @@
 /home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.pdb
 /home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Newtonsoft.Json.dll
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.sourcelink.json
