@@ -1,0 +1,17 @@
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.deps.json
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.runtimeconfig.json
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.dll
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.pdb
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Core.dll
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.dll
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/refint/EsepWebhook.dll
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.pdb
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/home/evan/projects/cis4930/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll
